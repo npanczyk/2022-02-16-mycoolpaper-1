@@ -1,3 +1,5 @@
+My name is Madicken Munk. 
+
 I am writing the coolest paper!
 
 This is the repository to hold it. 
