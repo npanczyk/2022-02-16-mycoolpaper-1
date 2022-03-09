@@ -2,4 +2,5 @@
 
 Did you know cats are cool? DUH. 
 
-Bunnies are cute too! Have you seen lilR?!?!?! 
+## This is bunny info
+Bunnies are cute and cool too! Have you seen lilR?!?!?!
